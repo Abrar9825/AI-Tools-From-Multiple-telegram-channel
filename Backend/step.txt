@@ -1,0 +1,2 @@
+uvicorn test:app --reload
+step 2:-pre train model (zero-shot-classification) 
